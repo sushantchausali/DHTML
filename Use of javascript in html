@@ -1,0 +1,12 @@
+<HTML>
+<head>
+<title>
+Method of a Javascript
+</title>
+</head>
+<body>
+<script type="text/javascript">
+document.write("comet");
+</script>
+</body>
+</html>
